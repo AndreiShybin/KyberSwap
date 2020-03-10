@@ -6,7 +6,7 @@
   "dependencies": {
     "@ledgerhq/hw-app-eth": "^4.21.0",
     "@ledgerhq/hw-transport-u2f": "^4.21.0",
-    "abi-decoder": "^1.0.9",
+    "abi-decoder": "^1.2.0",
     "axios": "^0.17.1",
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-plugin-react-html-attrs": "^2.1.0",
