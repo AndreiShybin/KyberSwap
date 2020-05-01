@@ -73,7 +73,7 @@
     "webpack-dev-server": "^2.11.4",
     "websocket": "^1.0.25",
     "yamljs": "^0.3.0",
-    "snyk": "^1.162.0"
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
