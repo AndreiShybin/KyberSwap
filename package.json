@@ -70,7 +70,7 @@
     "underscore": "^1.8.3",
     "web3": "^1.2.0",
     "web3-providers-ws": "^1.0.0",
-    "webpack-dev-server": "^2.11.4",
+    "webpack-dev-server": "^3.11.0",
     "websocket": "^1.0.25",
     "yamljs": "^0.3.0",
     "snyk": "^1.162.0"
