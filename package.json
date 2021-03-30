@@ -67,7 +67,7 @@
     "simple-node-logger": "^0.93.33",
     "slick-carousel": "^1.8.1",
     "sqlite3": "^3.1.13",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "web3": "^1.2.0",
     "web3-providers-ws": "^1.0.0",
     "webpack-dev-server": "^2.11.4",
